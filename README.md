@@ -21,13 +21,13 @@ Recipe page is built using HTML ,CSS and Bootstrap. The profile is responsive an
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![recipe page](https://github.com/G-Gakii/recipe-page/blob/main/assets/screenShot/Screenshot%202024-07-19%20at%2019.01.08.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://g-gakii.github.io/recipe-page/)
 - Live Site URL: (http://127.0.0.1:5500/)
 
 ## My process
@@ -43,7 +43,7 @@ Recipe page is built using HTML ,CSS and Bootstrap. The profile is responsive an
 
 ### What I learned
 
-i have learnt how to make height responsive by setting height to auto
+I have learnt how to make height responsive by setting height to auto
 
 
 ### Continued development
